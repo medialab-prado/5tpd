@@ -23,7 +23,7 @@ El Taller de Producción de Periodismo de Datos alcanza su quinta edición en 20
 #+ATTR_HTML: :alt Imagen de Maria Pilar Etxebarria. Gormaz-Soria :title Gormaz, Soria
 https://farm8.staticflickr.com/7430/11131455194_5fd26ea068_z_d.jpg
 
-#+BEGIN_HTML :exports results
+#+BEGIN_HTML
 <img src="https://farm8.staticflickr.com/7430/11131455194_5fd26ea068_z_d.jpg" alt="Imagen de Maria Pilar Etxebarria. Gormaz-Soria" title="Gormaz, Soria" />
 #+END_HTML
 
