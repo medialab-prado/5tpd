@@ -19,19 +19,20 @@
 
 El Taller de Producción de Periodismo de Datos alcanza su quinta edición en 2017 y adelanta su realización de otoño a primavera. No es el único cambio que os proponemos, con los cuales pretendemos mejorar tanto el desarrollo del taller como los proyectos que se realizan. Practicaremos periodismo de datos durante tres fines de semana, en vez de dos, a través de un concepto que se ha popularizado mucho en los últimos años y que está muy relacionado con nuestro territorio: /La España vacía/, es decir, una gran parte del territorio español cuya densidad de población está por debajo de los 9 habitantes por kilómetro cuadrado. Bajo ese paraguas, [[http://medialab-prado.es/5tpd-convocatoria-proyectos][esperamos propuestas]] para realización de proyectos de periodismo de datos de lo más diverso.
 
+#+CAPTION: Imagen de Maria Pilar Etxebarria. Gormaz-Soria
+#+ATTR_HTML: :alt Imagen de Maria Pilar Etxebarria. Gormaz-Soria :title Gormaz, Soria
+https://farm8.staticflickr.com/7430/11131455194_5fd26ea068_z_d.jpg
+
+#+BEGIN_HTML :exports results
+<img src="https://farm8.staticflickr.com/7430/11131455194_5fd26ea068_z_d.jpg" alt="Imagen de Maria Pilar Etxebarria. Gormaz-Soria" title="Gormaz, Soria" />
+#+END_HTML
+
 El taller se realiza en tres fines de semana largos (viernes, sábado y domingo) de abril (7-9), mayo (5-7) y junio (16-18). Lxs colaboradorxs participarán en la producción de alguno de los proyectos, trabajando con datos en equipos multidisciplinares que lleven a cabo buenas historias periodísticas.
 
 La [[http://medialab-prado.es/5tpd-convocatoria-proyectos][convocatoria de proyectos]] queda abierta desde hoy 2 de febrero hasta el 6 de marzo. La convocatoria de colaboradorxs se abrirá el próximo 13 de marzo y permanecerá abierta hasta el día de comienzo del taller, el viernes 7 de abril.
 
 En esta edición también ampliamos el equipo del taller y contaremos con dos mentores técnicxs y ocho periodistas de datos de distintos medios, unx por cada proyecto, que ayudarán en la realización del proyecto.
 
-#+CAPTION: Imagen de Maria Pilar Etxebarria. Gormaz-Soria
-#+ATTR_HTML: :alt Imagen de Maria Pilar Etxebarria. Gormaz-Soria :title Gormaz, Soria
-https://farm8.staticflickr.com/7430/11131455194_5fd26ea068_z_d.jpg
-
-#+BEGIN_HTML :exports none
-<img src="https://farm8.staticflickr.com/7430/11131455194_5fd26ea068_z_d.jpg" alt="Imagen de Maria Pilar Etxebarria. Gormaz-Soria" title="Gormaz, Soria" />
-#+END_HTML
 
 * Por qué "La España vacía"						:TOC:
 
