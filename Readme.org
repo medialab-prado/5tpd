@@ -1,0 +1,97 @@
+#+BLOG: blog.datalab.es
+#+CATEGORY: 
+#+TAGS: 
+#+DESCRIPTION: Notas sobre el quinto taller de producción de periodismo de datos
+#+AUTHOR: Adolfo Antón Bravo
+#+EMAIL: adolfo@medialab-prado.es
+#+TITLE: La España vacía, V taller de producción de periodismo de datos
+#+DATE: <2017-01-12 jue 16:00>
+#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+TOC: headlines 2
+#+LATEX_HEADER: \usepackage[english]{babel}
+#+LATEX_HEADER: \addto\captionsenglish{\renewcommand{\contentsname}{{\'I}ndice}}
+#+LATEX_HEADER: \renewcommand{\contentsname}{Índice}
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: linear
+#+REVEAL_THEME: sky
+#+REVEAL_HLEVEL: 2
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Herramientas de Scraping de PDF y Web.">
+#+REVEAL_POSTAMBLE: <p> Creado por adolflow. </p>
+#+REVEAL_PLUGINS: (highlight notes)
+#+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
+#+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
+#+LATEX_HEADER: \maketitle
+#+LATEX_HEADER: \tableofcontents
+
+El Taller de Producción de Periodismo de Datos alcanza su quinta edición en 2017 y adelanta su realización de otoño a primavera. No es el único cambio que os proponemos, con los cuales pretendemos mejorar tanto el desarrollo del taller como los proyectos que se realizan. Practicaremos periodismo de datos durante tres fines de semana, en vez de dos, a través de un concepto que se ha popularizado mucho en los últimos años y que está muy relacionado con nuestro territorio: /La España vacía/, es decir, una gran parte del territorio español cuya densidad de población está por debajo de los 9 habitantes por kilómetro cuadrado. Bajo ese paragüas, [[http://medialab-prado.es/5tpd-convocatoria-proyectos][esperamos propuestas]] para realización de proyectos de periodismo de datos de lo más diverso.
+
+El taller se realiza en tres fines de semana largos (viernes, sábado y domingo) de abril (7-9), mayo (5-7) y junio (16-18). Lxs colaboradorxs participarán en la producción de alguno de los proyectos, trabajando con datos en equipos multidisciplinares que lleven a cabo buenas historias periodísticas.
+
+La [[http://medialab-prado.es/5tpd-convocatoria-proyectos][convocatoria de proyectos]] queda abierta desde hoy 2 de febrero hasta el 6 de marzo. La convocatoria de colaboradorxs se abrirá el próximo 13 de marzo y permanecerá abierta hasta el día de comienzo del taller, el viernes 7 de abril.
+
+En esta edición también ampliamos el equipo del taller y contaremos con dos mentores técnicxs y ocho periodistas de datos de distintos medios, unx por cada proyecto, que ayudarán en la realización del proyecto.
+
+#+CAPTION: Imagen de Maria Pilar Etxebarria. Gormaz-Soria
+#+ATTR_HTML: :alt Imagen de Maria Pilar Etxebarria. Gormaz-Soria :title Gormaz, Soria
+https://farm8.staticflickr.com/7430/11131455194_5fd26ea068_z_d.jpg
+
+
+* La España vacía
+
+A principios de 2016, la editorial [[http://www.turnerlibros.com/][Turner]] publicó el libro de Sergio Molino [[http://www.casadellibro.com/libro-la-espana-vacia/9788416354146/2968392][La España vacía]], con el subtítulo /Viaje por un país que nunca fue/. Se trata de un recorrido por España de mitad del siglo XX para adelante que explica un fenómeno demográfico que hizo saltar las alertas en Europa: un 13% del territorio español tiene [[http://www.eldiario.es/sociedad/Espana-desaparece_0_323717749.html][menos de 8 habitantes por kilómetro cuadrado]], lo que se conoce como /desierto demográfico/”. El vacío avanza por el entorno rural, donde escasean los servicios y la población envejece. Las comunidades autónomas con menor densidad de población son Castilla-La Mancha, Extremadura, Castilla y León y Aragón. Todas tienen menos de 30 habitantes por km2., 3,5 veces menos que la media nacional. En el ámbito europeo, las comparaciones son muy ilustrativas: es la región con menos densidad de población de la Unión Europea, menos que Laponia, junto al Círculo Polar Ártico. Quizás el libro, como la crisis, nos ha hecho [[http://cultura.elpais.com/cultura/2016/04/19/babelia/1461071676_157409.html][mirarnos un poco]], y desde este taller nos gustaría crear historias de los datos que puedan tener relación con este concepto.
+
+Muchos son los temas interesantes que se pueden desarrollar, incluso partiendo de proyectos pasados. Echando la mirada atrás, en 2013 comenzamos con la *energía*, asunto que está de absoluta actualidad en un contexto de crisis general, crisis energética y precio de la luz; el año siguiente, 2014, abordamos el *gasto público*, y ahí seguimos sin tener las herramientas ni todos los datos disponibles pasados dos años de [[https://www.boe.es/buscar/doc.php?id%3DBOE-A-2013-12887][Ley de Transparencia]]; en 2015 y 2016 tuvimos un hilo conductor con la *desigualdad* primero y los *derechos humanos* después, algunos de cuyos proyectos muestran diferencias en el territorio o causas de despoblación. Las ideas pueden ser originales o basarse en otros proyectos libres, bien realizando una actualización o una interpretación diferente de los datos o del formato de publicación propuesto.
+
+Además, una /España vacía/ también remite a una /España llena/, unas metrópolis con graves problemas de movilidad, contaminación, energía y recursos y una costa urbanizada, un [[http://www.lavanguardia.com/vida/20160829/404247382292/urbanizacion-costas-espana.html][litoral de cemento]] que se extiende por el [[http://politica.elpais.com/politica/2016/08/18/actualidad/1471524185_965450.html][28% de los 7800 kilómetros de costa]] y que, cual espejo del metropolitano, donde se plasma un modelo de desarrollo económico, una ordenación del territorio y una explotación del mismo. 
+
+Parecida motivación encontramos en [[http://www.pepitas.net/libro/los-ultimos][Los últimos]], /voces de la Laponia
+española/, del periodista del diario Levante-EMV Paco Cerdá, que ha
+encontrado muy buenas críticas en la prensa, como por ejemplo de
+
+Julio Llamazares:
+
+#+BEGIN_QUOTE
+Hay libros que a uno le gustaría haber escrito y este es uno de ellos. Los últimos es un viaje al corazón de las tinieblas, solo que a las tinieblas del corazón de España.— Julio Llamazares
+#+END_QUOTE
+
+* Ejemplos
+
+Artículos sobre la despoblación rural:
+
+- [[http://www.eldiario.es/politica/Castilla-Aragon-Castilla-La-Mancha-Valencia_0_522848591.html][Bruselas alerta del peligro de despoblación de la España rural, eldiario.es]]
+- [[http://elpais.com/tag/despoblacion/a][Despoblación en El País]]
+- [[http://elpais.com/tag/envejecimiento_poblacion/a/][Envejecimiento población en El País]]
+- [[http://cadenaser.com/programa/2016/12/22/hora_14_fin_de_semana/1482418978_759136.html][La despoblación: el problema de la España rural, Cadena Ser]]
+- [[http://www.adecobureba.com/50-medidas-luchar-la-despoblacion-rural-espana/][50 medidas para luchar contra la despoblación en España, Adeco Bureba]]
+- [[http://www.elconfidencial.com/espana/2016-09-10/laponia-del-sur_1257436/][Sin rumbo y derrochando el dinero de la UE, El Confidencial]]
+- [[http://www.elconfidencial.com/sociedad/2016-04-10/milagro-abandono-pueblos-furgoneta-reparto_1180833/][Milagro abandono zonas reparto, El Confidencial]]
+- [[http://www.redr.es/es/cargarAplicacionNoticia.do?texto%3D&identificador%3D29117&fechaDesde%3D&idCategoria%3D0&fechaHasta%3D][Los últimos, un libro por la España despoblada, REDR]]
+- [[http://www.diariodeteruel.es/noticia/78416/un-proceso-participativo-completara-el-plan-integral-contra-la-despoblacion][Proceso participativo Teruel, Diario de Teruel]]
+- [[http://www.elmundo.es/sociedad/2015/10/28/5628ad6eca47413d6f8b45aa.html][Viaje a la España despoblada, El Mundo]]
+- [[https://www.cookingideas.es/serrania-celtiberica-20141029.html][Bienvenidos a la Laponia Ibérica, Cooking Ideas]]
+- [[http://www.heraldo.es/noticias/suplementos/2014/12/18/los_montes_universales_son_desierto_demografico_mayor_que_laponia_finlandesa_328577_314.html][Los Montes Universales son un desierto demográfico mayor que la Laponia finlandesa, El Heraldo de Aragón]]
+- [[http://www.elmundo.es/sociedad/2015/09/28/56058b72ca474152188b459f.html][Laponia en el corazón de España, El Mundo]]
+- [[http://www.diariodesoria.es/noticias/soria/9-10-municipios-son-desierto-demografico_53322.html][9 de cada 10 municipios son un desierto demográfico, Diario de Soria]]
+- [[http://cadenaser.com/programa/2017/01/26/la_ventana/1485442816_335968.html][Entrevista con Paco Cerdá]], autor de "Los últimos. Voces de la
+  Laponia Española", en [[http://cadenaser.com/programa/la_ventana/][La Ventana]] de la Ser ([[http://sdmedia.playser.cadenaser.com/2017/1/26/001RD010000004434756.mp3][audio]]).
+
+* Recursos
+
+Listado (/en construcción/):
+
+- [[http://www.ceddar.org/][CEDDAR]]
+- [[http://www.congresodespoblamientorural.com/][Congreso despoblamiento en zonas rurales]]
+- [[http://www.laexclusiva.org/rutas/][La Exclusiva]], logística social
+- [[http://www.adecobureba.com/][Asociación Desarrollo Comarcal Bureba]]
+- [[http://www.redr.es][Red Española de Desarrollo Rural]]
+- [[http://www.altonarceamuniellos.org/][Alto Narcea Muniellos]]
+- [[http://www2.unwto.org/tourism4development2017][2017 año del turismo sostenible]] y [[http://www.redr.es/es/cargarAplicacionNoticia.do?texto=&identificador=29126&fechaDesde=&idCategoria=0&fechaHasta=][noticia redr]]
+
+* Mail
+
+secretaria@celtiberica.es 
