@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>La España vacía, V taller de producción de periodismo de datos</title>
+<!-- 2017-02-27 lun 11:48 -->
+<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta  name="generator" content="Org-mode" />
+<meta  name="author" content="Adolfo Antón Bravo" />
+<meta  name="description" content="Notas sobre el quinto taller de producción de periodismo de datos"
+ />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">La España vacía, V taller de producción de periodismo de datos</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">Índice</a></li>
+<li><a href="#sec-2">Introducción</a></li>
+<li><a href="#sec-3">Por qué "La España vacía"</a></li>
+<li><a href="#sec-4">Ejemplos en la prensa</a></li>
+<li><a href="#sec-5">Recursos</a></li>
+<li><a href="#sec-6">Fechas</a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1">Índice</h2>
+<div class="outline-text-2" id="text-1">
+<ul class="org-ul">
+<li><i>Introducción</i>
+</li>
+<li><i>Por qué "La España vacía"</i>
+</li>
+<li><i>Ejemplos en la prensa</i>
+</li>
+<li><i>Recursos</i>
+</li>
+<li><i>Fechas</i>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2">Introducción</h2>
+<div class="outline-text-2" id="text-2">
+<p>
+El Taller de Producción de Periodismo de Datos alcanza su quinta edición en 2017 y adelanta su realización de otoño a primavera. No es el único cambio que os proponemos, con los cuales pretendemos mejorar tanto el desarrollo del taller como los proyectos que se realizan. Practicaremos periodismo de datos durante tres fines de semana, en vez de dos, a través de un concepto que se ha popularizado mucho en los últimos años y que está muy relacionado con nuestro territorio: <i>La España vacía</i>, es decir, una gran parte del territorio español cuya densidad de población está por debajo de los 9 habitantes por kilómetro cuadrado. Bajo ese paraguas, <a href="http://medialab-prado.es/5tpd-convocatoria-proyectos">esperamos propuestas</a> para realización de proyectos de periodismo de datos de lo más diverso.
+</p>
+
+
+<div class="figure">
+<p><img src="https://farm8.staticflickr.com/7430/11131455194_5fd26ea068_z_d.jpg" alt="Imagen de Maria Pilar Etxebarria. Gormaz-Soria" title="Gormaz, Soria" />
+</p>
+<p><span class="figure-number">Figure 1:</span> Imagen de Maria Pilar Etxebarria. Gormaz-Soria</p>
+</div>
+
+<img src="https://farm8.staticflickr.com/7430/11131455194_5fd26ea068_z_d.jpg" alt="Imagen de Maria Pilar Etxebarria. Gormaz-Soria" title="Gormaz, Soria" />
+
+<p>
+El taller se realiza en tres fines de semana largos (viernes, sábado y domingo) de abril (7-9), mayo (5-7) y junio (16-18). Lxs colaboradorxs participarán en la producción de alguno de los proyectos, trabajando con datos en equipos multidisciplinares que lleven a cabo buenas historias periodísticas.
+</p>
+
+<p>
+La <a href="http://medialab-prado.es/5tpd-convocatoria-proyectos">convocatoria de proyectos</a> queda abierta desde hoy 2 de febrero hasta el 6 de marzo. La convocatoria de colaboradorxs se abrirá el próximo 13 de marzo y permanecerá abierta hasta el día de comienzo del taller, el viernes 7 de abril.
+</p>
+
+<p>
+En esta edición también ampliamos el equipo del taller y contaremos con dos mentores técnicxs y ocho periodistas de datos de distintos medios, unx por cada proyecto, que ayudarán en la realización del proyecto.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3">Por qué "La España vacía"</h2>
+<div class="outline-text-2" id="text-3">
+<p>
+A principios de 2016, la editorial <a href="http://www.turnerlibros.com/">Turner</a> publicó el libro de Sergio Molino <a href="http://www.casadellibro.com/libro-la-espana-vacia/9788416354146/2968392">La España vacía</a>, con el subtítulo <i>Viaje por un país que nunca fue</i>. Se trata de un recorrido por España de mitad del siglo XX para adelante que explica un fenómeno demográfico que hizo saltar las alertas en Europa: un 13% del territorio español tiene <a href="http://www.eldiario.es/sociedad/Espana-desaparece_0_323717749.html">menos de 8 habitantes por kilómetro cuadrado</a>, lo que se conoce como /desierto demográfico/”. El vacío avanza por el entorno rural, donde escasean los servicios y la población envejece. Las comunidades autónomas con menor densidad de población son Castilla-La Mancha, Extremadura, Castilla y León y Aragón. Todas tienen menos de 30 habitantes por km2., 3,5 veces menos que la media nacional. En el ámbito europeo, las comparaciones son muy ilustrativas: es la región con menos densidad de población de la Unión Europea, menos que Laponia, junto al Círculo Polar Ártico. Quizás el libro, como la crisis, nos ha hecho <a href="http://cultura.elpais.com/cultura/2016/04/19/babelia/1461071676_157409.html">mirarnos un poco</a>, y desde este taller nos gustaría crear historias de los datos que puedan tener relación con este concepto.
+</p>
+
+<p>
+Muchos son los temas interesantes que se pueden desarrollar, incluso partiendo de proyectos pasados. Echando la mirada atrás, en 2013 comenzamos con la <b>energía</b>, asunto que está de absoluta actualidad en un contexto de crisis general, crisis energética y precio de la luz; el año siguiente, 2014, abordamos el <b>gasto público</b>, y ahí seguimos sin tener las herramientas ni todos los datos disponibles pasados dos años de <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12887">Ley de Transparencia</a>; en 2015 y 2016 tuvimos un hilo conductor con la <b>desigualdad</b> primero y los <b>derechos humanos</b> después, algunos de cuyos proyectos muestran diferencias en el territorio o causas de despoblación. Las ideas pueden ser originales o basarse en otros proyectos libres, bien realizando una actualización o una interpretación diferente de los datos o del formato de publicación propuesto.
+</p>
+
+<p>
+Además, una <i>España vacía</i> también remite a una <i>España llena</i>, unas metrópolis con graves problemas de movilidad, contaminación, energía y recursos y una costa urbanizada, un <a href="http://www.lavanguardia.com/vida/20160829/404247382292/urbanizacion-costas-espana.html">litoral de cemento</a> que se extiende por el <a href="http://politica.elpais.com/politica/2016/08/18/actualidad/1471524185_965450.html">28% de los 7800 kilómetros de costa</a> y que, cual espejo del metropolitano, donde se plasma un modelo de desarrollo económico, una ordenación del territorio y una explotación del mismo. 
+</p>
+
+<p>
+Parecida motivación encontramos en <a href="http://www.pepitas.net/libro/los-ultimos">Los últimos</a>, <i>voces de la Laponia
+española</i>, del periodista del diario Levante-EMV Paco Cerdá, que ha
+encontrado muy buenas críticas en la prensa, como por ejemplo de
+</p>
+
+<p>
+Julio Llamazares:
+</p>
+
+<blockquote>
+<p>
+Hay libros que a uno le gustaría haber escrito y este es uno de ellos. Los últimos es un viaje al corazón de las tinieblas, solo que a las tinieblas del corazón de España.— Julio Llamazares
+</p>
+</blockquote>
+</div>
+</div>
+
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4">Ejemplos en la prensa</h2>
+<div class="outline-text-2" id="text-4">
+<p>
+Artículos sobre la despoblación rural:
+</p>
+
+<ul class="org-ul">
+<li><a href="http://www.eldiario.es/politica/Castilla-Aragon-Castilla-La-Mancha-Valencia_0_522848591.html">Bruselas alerta del peligro de despoblación de la España rural, eldiario.es</a>
+</li>
+<li><a href="http://elpais.com/tag/despoblacion/a">Despoblación en El País</a>
+</li>
+<li><a href="http://elpais.com/tag/envejecimiento_poblacion/a/">Envejecimiento población en El País</a>
+</li>
+<li><a href="http://cadenaser.com/programa/2016/12/22/hora_14_fin_de_semana/1482418978_759136.html">La despoblación: el problema de la España rural, Cadena Ser</a>
+</li>
+<li><a href="http://www.adecobureba.com/50-medidas-luchar-la-despoblacion-rural-espana/">50 medidas para luchar contra la despoblación en España, Adeco Bureba</a>
+</li>
+<li><a href="http://www.elconfidencial.com/espana/2016-09-10/laponia-del-sur_1257436/">Sin rumbo y derrochando el dinero de la UE, El Confidencial</a>
+</li>
+<li><a href="http://www.elconfidencial.com/sociedad/2016-04-10/milagro-abandono-pueblos-furgoneta-reparto_1180833/">Milagro abandono zonas reparto, El Confidencial</a>
+</li>
+<li><a href="http://www.redr.es/es/cargarAplicacionNoticia.do?texto=&identificador=29117&fechaDesde=&idCategoria=0&fechaHasta=">Los últimos, un libro por la España despoblada, REDR</a>
+</li>
+<li><a href="http://www.diariodeteruel.es/noticia/78416/un-proceso-participativo-completara-el-plan-integral-contra-la-despoblacion">Proceso participativo Teruel, Diario de Teruel</a>
+</li>
+<li><a href="http://www.elmundo.es/sociedad/2015/10/28/5628ad6eca47413d6f8b45aa.html">Viaje a la España despoblada, El Mundo</a>
+</li>
+<li><a href="https://www.cookingideas.es/serrania-celtiberica-20141029.html">Bienvenidos a la Laponia Ibérica, Cooking Ideas</a>
+</li>
+<li><a href="http://www.heraldo.es/noticias/suplementos/2014/12/18/los_montes_universales_son_desierto_demografico_mayor_que_laponia_finlandesa_328577_314.html">Los Montes Universales son un desierto demográfico mayor que la Laponia finlandesa, El Heraldo de Aragón</a>
+</li>
+<li><a href="http://www.elmundo.es/sociedad/2015/09/28/56058b72ca474152188b459f.html">Laponia en el corazón de España, El Mundo</a>
+</li>
+<li><a href="http://www.diariodesoria.es/noticias/soria/9-10-municipios-son-desierto-demografico_53322.html">9 de cada 10 municipios son un desierto demográfico, Diario de Soria</a>
+</li>
+<li><a href="http://cadenaser.com/programa/2017/01/26/la_ventana/1485442816_335968.html">Entrevista con Paco Cerdá</a>, autor de "Los últimos. Voces de la
+Laponia Española", en <a href="http://cadenaser.com/programa/la_ventana/">La Ventana</a> de la Ser (<a href="http://sdmedia.playser.cadenaser.com/2017/1/26/001RD010000004434756.mp3">audio</a>).
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-5" class="outline-2">
+<h2 id="sec-5">Recursos</h2>
+<div class="outline-text-2" id="text-5">
+<p>
+Listado (<i>en construcción</i>):
+</p>
+
+<ul class="org-ul">
+<li><a href="http://www.ceddar.org/">CEDDAR</a>
+</li>
+<li><a href="http://www.congresodespoblamientorural.com/">Congreso despoblamiento en zonas rurales</a>
+</li>
+<li><a href="http://www.laexclusiva.org/rutas/">La Exclusiva</a>, logística social
+</li>
+<li><a href="http://www.adecobureba.com/">Asociación Desarrollo Comarcal Bureba</a>
+</li>
+<li><a href="http://www.redr.es">Red Española de Desarrollo Rural</a>
+</li>
+<li><a href="http://www.altonarceamuniellos.org/">Alto Narcea Muniellos</a>
+</li>
+<li><a href="http://www2.unwto.org/tourism4development2017">2017 año del turismo sostenible</a> y <a href="http://www.redr.es/es/cargarAplicacionNoticia.do?texto=&identificador=29126&fechaDesde=&idCategoria=0&fechaHasta=">noticia redr</a>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-6" class="outline-2">
+<h2 id="sec-6">Fechas</h2>
+<div class="outline-text-2" id="text-6">
+<ul class="org-ul">
+<li>2 febrero, publicación de <a href="http://medialab-prado.es/article/v-taller-de-produccion-de-periodismo-de-datos-la-espana-vacia-convocatoria-de-proyectos">convocatoria de proyectos</a>
+</li>
+<li>4 marzo, <a href="http://medialab-prado.es/article/dia-de-los-datos-abiertos-2017">día de los datos abiertos</a>.
+</li>
+<li>6 marzo, publicación de convocatoria de colaboradorxs.
+</li>
+<li>12 marzo, fecha límite de presentación de propuestas.
+</li>
+<li>7 abril, fecha límite de convocatoria de colaboradorxs.
+</li>
+<li>7, 8 y 9 abril, primera sesión, simposio.
+</li>
+<li>5, 6 y 7 mayo, segunda sesión, coincide con Jornadas de Periodismo de Datos 2017.
+</li>
+<li>16, 17 y 18 junio, tercera sesión y publicación de trabajos.
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Date: <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-12 jue 16:00&gt;</span></span></p>
+<p class="author">Author: Adolfo Antón Bravo</p>
+<p class="date">Created: 2017-02-27 lun 11:48</p>
+<p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 24.5.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
