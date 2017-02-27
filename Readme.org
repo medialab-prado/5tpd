@@ -1,34 +1,23 @@
 #+BLOG: blog.datalab.es
-#+CATEGORY: 
-#+TAGS: 
+#+CATEGORY: periodismodatos, datalab, taller
+#+TAGS: datos, periodismodatos, laespañavacía, laponiadelsur
 #+DESCRIPTION: Notas sobre el quinto taller de producción de periodismo de datos
 #+AUTHOR: Adolfo Antón Bravo
 #+EMAIL: adolfo@medialab-prado.es
 #+TITLE: La España vacía, V taller de producción de periodismo de datos
 #+DATE: <2017-01-12 jue 16:00>
 #+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
-#+TOC: headlines 2
-#+LATEX_HEADER: \usepackage[english]{babel}
-#+LATEX_HEADER: \addto\captionsenglish{\renewcommand{\contentsname}{{\'I}ndice}}
-#+LATEX_HEADER: \renewcommand{\contentsname}{Índice}
-#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
-#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
-#+OPTIONS: reveal_width:1200 reveal_height:800
-#+REVEAL_MARGIN: 0.1
-#+REVEAL_MIN_SCALE: 0.5
-#+REVEAL_MAX_SCALE: 2.5
-#+REVEAL_TRANS: linear
-#+REVEAL_THEME: sky
-#+REVEAL_HLEVEL: 2
-#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Herramientas de Scraping de PDF y Web.">
-#+REVEAL_POSTAMBLE: <p> Creado por adolflow. </p>
-#+REVEAL_PLUGINS: (highlight notes)
-#+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
-#+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
-#+LATEX_HEADER: \maketitle
-#+LATEX_HEADER: \tableofcontents
 
-El Taller de Producción de Periodismo de Datos alcanza su quinta edición en 2017 y adelanta su realización de otoño a primavera. No es el único cambio que os proponemos, con los cuales pretendemos mejorar tanto el desarrollo del taller como los proyectos que se realizan. Practicaremos periodismo de datos durante tres fines de semana, en vez de dos, a través de un concepto que se ha popularizado mucho en los últimos años y que está muy relacionado con nuestro territorio: /La España vacía/, es decir, una gran parte del territorio español cuya densidad de población está por debajo de los 9 habitantes por kilómetro cuadrado. Bajo ese paragüas, [[http://medialab-prado.es/5tpd-convocatoria-proyectos][esperamos propuestas]] para realización de proyectos de periodismo de datos de lo más diverso.
+* Índice								:TOC:
+ - [[#introducción][Introducción]]
+ - [[#por-qué-la-españa-vacía][Por qué "La España vacía"]]
+ - [[#ejemplos-en-la-prensa][Ejemplos en la prensa]]
+ - [[#recursos][Recursos]]
+ - [[#fechas][Fechas]]
+
+* Introducción								:TOC:
+
+El Taller de Producción de Periodismo de Datos alcanza su quinta edición en 2017 y adelanta su realización de otoño a primavera. No es el único cambio que os proponemos, con los cuales pretendemos mejorar tanto el desarrollo del taller como los proyectos que se realizan. Practicaremos periodismo de datos durante tres fines de semana, en vez de dos, a través de un concepto que se ha popularizado mucho en los últimos años y que está muy relacionado con nuestro territorio: /La España vacía/, es decir, una gran parte del territorio español cuya densidad de población está por debajo de los 9 habitantes por kilómetro cuadrado. Bajo ese paraguas, [[http://medialab-prado.es/5tpd-convocatoria-proyectos][esperamos propuestas]] para realización de proyectos de periodismo de datos de lo más diverso.
 
 El taller se realiza en tres fines de semana largos (viernes, sábado y domingo) de abril (7-9), mayo (5-7) y junio (16-18). Lxs colaboradorxs participarán en la producción de alguno de los proyectos, trabajando con datos en equipos multidisciplinares que lleven a cabo buenas historias periodísticas.
 
@@ -40,8 +29,11 @@ En esta edición también ampliamos el equipo del taller y contaremos con dos me
 #+ATTR_HTML: :alt Imagen de Maria Pilar Etxebarria. Gormaz-Soria :title Gormaz, Soria
 https://farm8.staticflickr.com/7430/11131455194_5fd26ea068_z_d.jpg
 
+#+BEGIN_HTML :exports none
+<img src="https://farm8.staticflickr.com/7430/11131455194_5fd26ea068_z_d.jpg" alt="Imagen de Maria Pilar Etxebarria. Gormaz-Soria" title="Gormaz, Soria" />
+#+END_HTML
 
-* La España vacía
+* Por qué "La España vacía"						:TOC:
 
 A principios de 2016, la editorial [[http://www.turnerlibros.com/][Turner]] publicó el libro de Sergio Molino [[http://www.casadellibro.com/libro-la-espana-vacia/9788416354146/2968392][La España vacía]], con el subtítulo /Viaje por un país que nunca fue/. Se trata de un recorrido por España de mitad del siglo XX para adelante que explica un fenómeno demográfico que hizo saltar las alertas en Europa: un 13% del territorio español tiene [[http://www.eldiario.es/sociedad/Espana-desaparece_0_323717749.html][menos de 8 habitantes por kilómetro cuadrado]], lo que se conoce como /desierto demográfico/”. El vacío avanza por el entorno rural, donde escasean los servicios y la población envejece. Las comunidades autónomas con menor densidad de población son Castilla-La Mancha, Extremadura, Castilla y León y Aragón. Todas tienen menos de 30 habitantes por km2., 3,5 veces menos que la media nacional. En el ámbito europeo, las comparaciones son muy ilustrativas: es la región con menos densidad de población de la Unión Europea, menos que Laponia, junto al Círculo Polar Ártico. Quizás el libro, como la crisis, nos ha hecho [[http://cultura.elpais.com/cultura/2016/04/19/babelia/1461071676_157409.html][mirarnos un poco]], y desde este taller nos gustaría crear historias de los datos que puedan tener relación con este concepto.
 
@@ -59,7 +51,7 @@ Julio Llamazares:
 Hay libros que a uno le gustaría haber escrito y este es uno de ellos. Los últimos es un viaje al corazón de las tinieblas, solo que a las tinieblas del corazón de España.— Julio Llamazares
 #+END_QUOTE
 
-* Ejemplos
+* Ejemplos en la prensa							:TOC:
 
 Artículos sobre la despoblación rural:
 
@@ -80,7 +72,7 @@ Artículos sobre la despoblación rural:
 - [[http://cadenaser.com/programa/2017/01/26/la_ventana/1485442816_335968.html][Entrevista con Paco Cerdá]], autor de "Los últimos. Voces de la
   Laponia Española", en [[http://cadenaser.com/programa/la_ventana/][La Ventana]] de la Ser ([[http://sdmedia.playser.cadenaser.com/2017/1/26/001RD010000004434756.mp3][audio]]).
 
-* Recursos
+* Recursos								:TOC:
 
 Listado (/en construcción/):
 
@@ -92,6 +84,15 @@ Listado (/en construcción/):
 - [[http://www.altonarceamuniellos.org/][Alto Narcea Muniellos]]
 - [[http://www2.unwto.org/tourism4development2017][2017 año del turismo sostenible]] y [[http://www.redr.es/es/cargarAplicacionNoticia.do?texto=&identificador=29126&fechaDesde=&idCategoria=0&fechaHasta=][noticia redr]]
 
-* Mail
+* Fechas								:TOC:
 
-secretaria@celtiberica.es 
+- 2 febrero, publicación de [[http://medialab-prado.es/article/v-taller-de-produccion-de-periodismo-de-datos-la-espana-vacia-convocatoria-de-proyectos][convocatoria de proyectos]]
+- 4 marzo, [[http://medialab-prado.es/article/dia-de-los-datos-abiertos-2017][día de los datos abiertos]].
+- 6 marzo, publicación de convocatoria de colaboradorxs.
+- 12 marzo, fecha límite de presentación de propuestas.
+- 7 abril, fecha límite de convocatoria de colaboradorxs.
+- 7, 8 y 9 abril, primera sesión, simposio.
+- 5, 6 y 7 mayo, segunda sesión, coincide con Jornadas de Periodismo de Datos 2017.
+- 16, 17 y 18 junio, tercera sesión y publicación de trabajos.
+
+
