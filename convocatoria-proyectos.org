@@ -9,12 +9,12 @@
 #+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
 
 * Entradilla
-Hasta el 5 de marzo de 2017 está abierta la convocatoria de proyectos para el V taller de producción de periodismo de datos, /La España vacía/. Los proyectos seleccionados se desarrollarán con la colaboración de 9 mentores locales y *Hassel Fallas*, directora de la Unidad de Inteligencia de Datos de La Nación (Costa Rica)
+Hasta el 5 de marzo de 2017 está abierta la convocatoria de proyectos para el V taller de producción de periodismo de datos, /La España vacía/. Los proyectos seleccionados se desarrollarán con la colaboración de 9 mentores locales y [[http://medialab-prado.es/person/hassel-fallas][Hassel Fallas]], directora de la [[http://www.nacion.com/autores/hassel_fallas/][Unidad de Inteligencia de Datos de La Nación]] (Costa Rica)
 
 * Introducción
 Esta convocatoria va dirigida a periodistas, programadores, desarrolladores front/back, diseñadores UX, estadísticos, visualizadores de datos y, en general, cualquier persona que quiera trabajar con datos para sacar historias de ellos, ya sean estudiantes, profesionales de alguna rama o simples personas curiosas.
 
-El taller está coordinado por Rafael de las Cuevas y Adolfo Antón Bravo. Contamos con Fernando Blat y Beatriz Martínez como mentores técnicos e Ignacio Azcona como mentor de relatoría. Además, cada proyecto contará con la mentoría de un grupo de periodistas de datos compuesto por Javier Barriocanal (/Vocento/), [[http://medialab-prado.es/person/adrian-blanco][Adrián Blanco]] (/El Confidencial/), [[http://medialab-prado.es/person/jesus_escudero][Jesús Escudero]] y [[http://medialab-prado.es/person/danielegrasso][Daniele Grasso]] (/El Confidencial/, /Panama Papers/), [[http://medialab-prado.es/person/nicolas-perez][Nicolás Pérez Iguarán]] (freelance, ex /El Español/), Raúl Sánchez (/eldiario.es/), [[http://medialab-prado.es/person/luis-sevillano-pires][Luis Sevillano]] (/El Independiente/), [[http://medialab-prado.es/person/laura_tejedor][Laura Tejedor]] (/Universidad Complutense de Madrid/) y María Zuil (El Confidencial). 
+El taller está coordinado por [[http://medialab-prado.es/person/rafael-de-las-cuevas][Rafael de las Cuevas]] y [[http://medialab-prado.es/person/adolfoanton][Adolfo Antón Bravo]]. Contamos con [[http://medialab-prado.es/person/fernando-blat][Fernando Blat]] y Beatriz Martínez como mentores técnicos e [[http://medialab-prado.es/person/ignacio-azcona-cristobal][Ignacio Azcona]] como mentor de relatoría. Además, cada proyecto contará con la mentoría de un grupo de periodistas de datos compuesto por [[http://medialab-prado.es/person/javier-barriocanal][Javier Barriocanal]] (/Vocento/ y /Colpisa Noticias/), [[http://medialab-prado.es/person/adrian-blanco][Adrián Blanco]] (/El Confidencial/), [[http://medialab-prado.es/person/jesus_escudero][Jesús Escudero]] y [[http://medialab-prado.es/person/danielegrasso][Daniele Grasso]] (/El Confidencial/, /Panama Papers/), [[http://medialab-prado.es/person/nicolas-perez][Nicolás Pérez Iguarán]] (freelance, ex /El Español/), [[http://medialab-prado.es/person/raul-sanchez-gonzalez][Raúl Sánchez]] (/eldiario.es/), [[http://medialab-prado.es/person/luis-sevillano-pires][Luis Sevillano]] (/El Independiente/), [[http://medialab-prado.es/person/laura_tejedor][Laura Tejedor]] (/Universidad Complutense de Madrid/) y [[http://medialab-prado.es/person/maria-zuil][María Zuil]] (El Confidencial). 
 
 La fecha límite para la presentación de proyectos es el domingo 12 de marzo a las 12 de la noche UTC+2. La inscripción es gratuíta.
 
@@ -80,19 +80,20 @@ Si contáis con datos, ya sean muchos y pocos, o bien los tenéis localizados pe
 - [[http://medialab-prado.es/person/rafael-de-las-cuevas][Rafael de las Cuevas]], coordinador del taller
 - [[http://medialab-prado.es/person/adolfoanton][Adolfo Antón Bravo]], coordinador del taller y del Datalab de Medialab-Prado.
 ** Mentorxs técnicxs
-- Fernando Blat, mentor técnico.
+- [[http://medialab-prado.es/person/fernando-blat][Fernando Blat]], mentor técnico.
 - Beatriz Martínez, mentora técnica.
 ** Invitada internacional
-- Hassel Fallas, mentora internacional
+- [[http://medialab-prado.es/person/hassel-fallas][Hassel Fallas]], mentora internacional
 ** Relatoría
-- Ignacio Azcona Cristobal, periodista
+- [[http://medialab-prado.es/person/ignacio-azcona-cristobal][Ignacio Azcona Cristobal]], periodista
 ** Mentorías locales
-- Javier Barriocanal (Vocento)
-- Adrián Blanco (El Confidencial)
-- Jesús Escudero y Daniele Grasso (El Confidencial, Panama Papers)
-- Nicolás Pérez Iguarán (freelance, ex El Español)
-- Raúl Sánchez (eldiario.es)
-- Luis Sevillano (El Independiente)
-- Laura Tejedor (Universidad Complutense de Madrid)
-- María Zuil (El Confidencial).
+- [[http://medialab-prado.es/person/javier-barriocanal][Javier Barriocanal]] (Vocento y Colpisa Noticias)
+- [[http://medialab-prado.es/person/adrian-blanco][Adrián Blanco]] (El Confidencial)
+- [[http://medialab-prado.es/person/jesus_escudero][Jesús Escudero]] y [[http://medialab-prado.es/person/danielegrasso][Daniele Grasso]] (El Confidencial, Panama Papers)
+- [[http://medialab-prado.es/person/nicolas-perez][Nicolás Pérez Iguarán]] (freelance, ex El Español)
+- [[http://medialab-prado.es/person/raul-sanchez-gonzalez][Raúl Sánchez]] (eldiario.es)
+- [[http://medialab-prado.es/person/luis-sevillano-pires][Luis Sevillano]] (El Independiente)
+- [[http://medialab-prado.es/person/laura_tejedor][Laura Tejedor]] (Universidad Complutense de Madrid)
+- [[http://medialab-prado.es/person/maria-zuil][María Zuil]] (El Confidencial).
 * Formulario
+

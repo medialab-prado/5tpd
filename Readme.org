@@ -42,7 +42,7 @@ El taller se realiza en tres fines de semana largos (viernes, sábado y domingo)
 
 La [[http://medialab-prado.es/5tpd-convocatoria-proyectos][convocatoria de proyectos]] permanece abierta hasta el 12 de marzo. La convocatoria de colaboradorxs se abrirá el próximo 13 de marzo y permanecerá abierta hasta el día de comienzo del taller, el viernes 7 de abril.
 
-En esta edición también ampliamos el equipo del taller y contaremos con dos mentores técnicxs y ocho periodistas de datos de distintos medios, unx por cada proyecto, que ayudarán en la realización del proyecto.
+Además de Hassel Fallas como invitada internacional, en esta edición también *ampliamos el equipo del taller* y contaremos con *dos mentores técnicxs* y nueve periodistas de datos de distintos medios, unx por cada proyecto, que ayudarán en su realización, además de una persona para ayudar en la construcción del relato y los dos coordinadores... mira [[equipo][el equipo completo]].
 
 
 * Por qué "La España vacía"						:TOC:
@@ -108,24 +108,24 @@ Listado (/en construcción/):
 - 16, 17 y 18 junio, tercera sesión y publicación de trabajos.
 
 
-* Equipo								:TOC:
+* Equipo <<equipo>> 							:TOC:
 ** Organizan
 - [[http://medialab-prado.es/person/rafael-de-las-cuevas][Rafael de las Cuevas]], coordinador del taller
 - [[http://medialab-prado.es/person/adolfoanton][Adolfo Antón Bravo]], coordinador del taller y del Datalab de Medialab-Prado.
 ** Mentorxs técnicxs
-- Fernando Blat, mentor técnico.
+- [[http://medialab-prado.es/person/fernando-blat][Fernando Blat]], mentor técnico.
 - Beatriz Martínez, mentora técnica.
 ** Invitada internacional
-- Hassel Fallas, mentora internacional
+- [[http://medialab-prado.es/person/hassel-fallas][Hassel Fallas]], mentora internacional
 ** Relatoría
-- Ignacio Azcona Cristobal, periodista
+- [[http://medialab-prado.es/person/ignacio-azcona-cristobal][Ignacio Azcona Cristobal]], periodista
 ** Mentorías locales
-- Javier Barriocanal (Vocento)
-- Adrián Blanco (El Confidencial)
-- Jesús Escudero y Daniele Grasso (El Confidencial, Panama Papers)
-- Nicolás Pérez Iguarán (freelance, ex El Español)
-- Raúl Sánchez (eldiario.es)
-- Luis Sevillano (El Independiente)
-- Laura Tejedor (Universidad Complutense de Madrid)
-- María Zuil (El Confidencial).
+- [[http://medialab-prado.es/person/javier-barriocanal][Javier Barriocanal]] (Vocento y Colpisa Noticias)
+- [[http://medialab-prado.es/person/adrian-blanco][Adrián Blanco]] (El Confidencial)
+- [[http://medialab-prado.es/person/jesus_escudero][Jesús Escudero]] y [[http://medialab-prado.es/person/danielegrasso][Daniele Grasso]] (El Confidencial, Panama Papers)
+- [[http://medialab-prado.es/person/nicolas-perez][Nicolás Pérez Iguarán]] (freelance, ex El Español)
+- [[http://medialab-prado.es/person/raul-sanchez-gonzalez][Raúl Sánchez]] (eldiario.es)
+- [[http://medialab-prado.es/person/luis-sevillano-pires][Luis Sevillano]] (El Independiente)
+- [[http://medialab-prado.es/person/laura_tejedor][Laura Tejedor]] (Universidad Complutense de Madrid)
+- [[http://medialab-prado.es/person/maria-zuil][María Zuil]] (El Confidencial).
 
