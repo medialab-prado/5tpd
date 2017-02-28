@@ -9,15 +9,26 @@
 #+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
 
 * Índice								:TOC:
+ - [[#entradilla][Entradilla]]
  - [[#introducción][Introducción]]
  - [[#por-qué-la-españa-vacía][Por qué "La España vacía"]]
  - [[#ejemplos-en-la-prensa][Ejemplos en la prensa]]
  - [[#recursos][Recursos]]
  - [[#fechas][Fechas]]
+ - [[#equipo][Equipo]]
+   - [[#organizan][Organizan]]
+   - [[#mentorxs-técnicxs][Mentorxs técnicxs]]
+   - [[#invitada-internacional][Invitada internacional]]
+   - [[#relatoría][Relatoría]]
+   - [[#mentorías-locales][Mentorías locales]]
 
-* Introducción								:TOC:
+* Entradilla 						:TOC:
 
-El Taller de Producción de Periodismo de Datos alcanza su quinta edición en 2017 y adelanta su realización de otoño a primavera. No es el único cambio que os proponemos, con los cuales pretendemos mejorar tanto el desarrollo del taller como los proyectos que se realizan. Practicaremos periodismo de datos durante tres fines de semana, en vez de dos, a través de un concepto que se ha popularizado mucho en los últimos años y que está muy relacionado con nuestro territorio: /La España vacía/, es decir, una gran parte del territorio español cuya densidad de población está por debajo de los 9 habitantes por kilómetro cuadrado. Bajo ese paraguas, [[http://medialab-prado.es/5tpd-convocatoria-proyectos][esperamos propuestas]] para realización de proyectos de periodismo de datos de lo más diverso.
+ El Taller de Producción de Periodismo de Datos alcanza su quinta edición en 2017 y adelanta su realización a esta primavera. Durante tres fines de semana y con el trasfondo de La España vacía, seleccionaremos 8 proyectos que trabajarán con 9 mentores locales y Hassel Fallas (La Nación, Costa Rica) 
+
+* Introducción
+
+La quinta edición del taller de producción de periodismo de datos viene cargada de cambios, con los cuales pretendemos mejorar tanto el desarrollo del taller como los proyectos que se realizan. Practicaremos periodismo de datos durante tres fines de semana, en vez de dos, a través de un concepto que se ha popularizado mucho en los últimos años y que está muy relacionado con nuestro territorio: La España vacía, es decir, una gran parte del territorio español cuya densidad de población está por debajo de los 9 habitantes por kilómetro cuadrado. Bajo ese paraguas,  [[http://medialab-prado.es/5tpd-convocatoria-proyectos][esperamos propuestas]] para realización de proyectos de periodismo de datos de lo más diverso.  
 
 #+CAPTION: Imagen de Maria Pilar Etxebarria. Gormaz-Soria
 #+ATTR_HTML: :alt Imagen de Maria Pilar Etxebarria. Gormaz-Soria :title Gormaz, Soria
@@ -29,7 +40,7 @@ https://farm8.staticflickr.com/7430/11131455194_5fd26ea068_z_d.jpg
 
 El taller se realiza en tres fines de semana largos (viernes, sábado y domingo) de abril (7-9), mayo (5-7) y junio (16-18). Lxs colaboradorxs participarán en la producción de alguno de los proyectos, trabajando con datos en equipos multidisciplinares que lleven a cabo buenas historias periodísticas.
 
-La [[http://medialab-prado.es/5tpd-convocatoria-proyectos][convocatoria de proyectos]] queda abierta desde hoy 2 de febrero hasta el 6 de marzo. La convocatoria de colaboradorxs se abrirá el próximo 13 de marzo y permanecerá abierta hasta el día de comienzo del taller, el viernes 7 de abril.
+La [[http://medialab-prado.es/5tpd-convocatoria-proyectos][convocatoria de proyectos]] permanece abierta hasta el 12 de marzo. La convocatoria de colaboradorxs se abrirá el próximo 13 de marzo y permanecerá abierta hasta el día de comienzo del taller, el viernes 7 de abril.
 
 En esta edición también ampliamos el equipo del taller y contaremos con dos mentores técnicxs y ocho periodistas de datos de distintos medios, unx por cada proyecto, que ayudarán en la realización del proyecto.
 
@@ -96,4 +107,25 @@ Listado (/en construcción/):
 - 5, 6 y 7 mayo, segunda sesión, coincide con Jornadas de Periodismo de Datos 2017.
 - 16, 17 y 18 junio, tercera sesión y publicación de trabajos.
 
+
+* Equipo								:TOC:
+** Organizan
+- [[http://medialab-prado.es/person/rafael-de-las-cuevas][Rafael de las Cuevas]], coordinador del taller
+- [[http://medialab-prado.es/person/adolfoanton][Adolfo Antón Bravo]], coordinador del taller y del Datalab de Medialab-Prado.
+** Mentorxs técnicxs
+- Fernando Blat, mentor técnico.
+- Beatriz Martínez, mentora técnica.
+** Invitada internacional
+- Hassel Fallas, mentora internacional
+** Relatoría
+- Ignacio Azcona Cristobal, periodista
+** Mentorías locales
+- Javier Barriocanal (Vocento)
+- Adrián Blanco (El Confidencial)
+- Jesús Escudero y Daniele Grasso (El Confidencial, Panama Papers)
+- Nicolás Pérez Iguarán (freelance, ex El Español)
+- Raúl Sánchez (eldiario.es)
+- Luis Sevillano (El Independiente)
+- Laura Tejedor (Universidad Complutense de Madrid)
+- María Zuil (El Confidencial).
 
