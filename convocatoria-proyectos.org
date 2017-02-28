@@ -7,32 +7,16 @@
 #+TITLE: V taller de producción de periodismo de datos, La España Vacía, convocatoria de proyectos
 #+DATE: <2017-01-12 jue 16:00>
 #+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
-#+TOC: headlines 2
-#+LATEX_HEADER: \usepackage[english]{babel}
-#+LATEX_HEADER: \addto\captionsenglish{\renewcommand{\contentsname}{{\'I}ndice}}
-#+LATEX_HEADER: \renewcommand{\contentsname}{Índice}
-#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
-#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
-#+OPTIONS: reveal_width:1200 reveal_height:800
-#+REVEAL_MARGIN: 0.1
-#+REVEAL_MIN_SCALE: 0.5
-#+REVEAL_MAX_SCALE: 2.5
-#+REVEAL_TRANS: linear
-#+REVEAL_THEME: sky
-#+REVEAL_HLEVEL: 2
-#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Herramientas de Scraping de PDF y Web.">
-#+REVEAL_POSTAMBLE: <p> Creado por adolflow. </p>
-#+REVEAL_PLUGINS: (highlight notes)
-#+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
-#+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
-#+LATEX_HEADER: \maketitle
-#+LATEX_HEADER: \tableofcontents
 
-Desde el 2 de febrero y hasta el 5 de marzo de 2017 está abierta la convocatoria de proyectos para el V taller de producción de periodismo de datos, /La España vacía/. Los proyectos seleccionados se desarrollarán en el taller que contará con el asesoramiento de profesionales de medios de comunicación nacionales e internacionales y expertos en análisis, tratamiento y visualización de datos.
+* Entradilla
+Hasta el 5 de marzo de 2017 está abierta la convocatoria de proyectos para el V taller de producción de periodismo de datos, /La España vacía/. Los proyectos seleccionados se desarrollarán con la colaboración de 9 mentores locales y *Hassel Fallas*, directora de la Unidad de Inteligencia de Datos de La Nación (Costa Rica)
 
+* Introducción
 Esta convocatoria va dirigida a periodistas, programadores, desarrolladores front/back, diseñadores UX, estadísticos, visualizadores de datos y, en general, cualquier persona que quiera trabajar con datos para sacar historias de ellos, ya sean estudiantes, profesionales de alguna rama o simples personas curiosas.
 
-La fecha límite para la presentación de proyectos es el domingo 5 de marzo a las 12 de la noche UTC+2. La inscripción es gratuíta.
+El taller está coordinado por Rafael de las Cuevas y Adolfo Antón Bravo. Contamos con Fernando Blat y Beatriz Martínez como mentores técnicos e Ignacio Azcona como mentor de relatoría. Además, cada proyecto contará con la mentoría de un grupo de periodistas de datos compuesto por Javier Barriocanal (/Vocento/), [[http://medialab-prado.es/person/adrian-blanco][Adrián Blanco]] (/El Confidencial/), [[http://medialab-prado.es/person/jesus_escudero][Jesús Escudero]] y [[http://medialab-prado.es/person/danielegrasso][Daniele Grasso]] (/El Confidencial/, /Panama Papers/), [[http://medialab-prado.es/person/nicolas-perez][Nicolás Pérez Iguarán]] (freelance, ex /El Español/), Raúl Sánchez (/eldiario.es/), [[http://medialab-prado.es/person/luis-sevillano-pires][Luis Sevillano]] (/El Independiente/), [[http://medialab-prado.es/person/laura_tejedor][Laura Tejedor]] (/Universidad Complutense de Madrid/) y María Zuil (El Confidencial). 
+
+La fecha límite para la presentación de proyectos es el domingo 12 de marzo a las 12 de la noche UTC+2. La inscripción es gratuíta.
 
 #+CAPTION: Imagen de Miguel Ángel García. Ermita de nuestra Señora de Jerusalén
 #+ATTR_HTML: :alt Imagen de Miguel Ángel García. Ermita de nuestra Señora de Jerusalén :title Nuestra Sra. de Jerusalén
@@ -44,7 +28,10 @@ Los proyectos deben reunir estas condiciones:
 
 - Recopilación y análisis de datos para crear una historia o herramienta periodística.
 - Fuentes de datos fiables y localizadas antes de la realización del taller.
-- Tema relacionado con la narrativa del taller. Algunos ejemplos:
+- Tema relacionado con la narrativa del taller.
+
+Algunas ideas:
+
  - Flujos demográficos en el interior de España.
  - Flujos demográficos hacia España o desde España.
  - Ordenación del territorio: agricultura, ganadería, industria, energía, etc.
@@ -53,10 +40,15 @@ Los proyectos deben reunir estas condiciones:
  - Residuos
  - Contaminación
 
+¿Tienes alguna duda? [[https://docs.google.com/document/d/1ir3qX3YcNxWefKANRCsaL4Pb9V10vf4PipJAkbllETg/edit?usp%3Dsharing][Sigue este modelo]] si no sabes cómo enviar una idea, una propuesta sobre la que trabajar. Si se trata de cualquier otra cosa, escribe a adolfo @ medialab-prado.es.
+
+#+BEGIN_QUOTE
 Los resultados y el código fuente deben tener licencias libres que permitan el acceso y la difusión del conocimiento producido durante el taller.
+#+END_QUOTE
 
 Si tienes cualquier duda, escribe a [[mailto:visualizar@medialab-prado.es][visualizar @ medialab-prado.es]]
 
+* Convocatoria de colaboradorxs
 ¿Quieres apuntarte al taller simplemente para trabajar en uno de los proyectos? El 6 de marzo se abrirá la convocatoria de colaboradores en la web de Medialab-Prado.
 
 * Presentación de proyectos
@@ -83,4 +75,24 @@ Si contáis con datos, ya sean muchos y pocos, o bien los tenéis localizados pe
 - 5, 6 y 7 mayo, segunda sesión.
 - 18, 19 y 20 junio, tercera sesión.
 
+* Equipo
+** Organizan
+- [[http://medialab-prado.es/person/rafael-de-las-cuevas][Rafael de las Cuevas]], coordinador del taller
+- [[http://medialab-prado.es/person/adolfoanton][Adolfo Antón Bravo]], coordinador del taller y del Datalab de Medialab-Prado.
+** Mentorxs técnicxs
+- Fernando Blat, mentor técnico.
+- Beatriz Martínez, mentora técnica.
+** Invitada internacional
+- Hassel Fallas, mentora internacional
+** Relatoría
+- Ignacio Azcona Cristobal, periodista
+** Mentorías locales
+- Javier Barriocanal (Vocento)
+- Adrián Blanco (El Confidencial)
+- Jesús Escudero y Daniele Grasso (El Confidencial, Panama Papers)
+- Nicolás Pérez Iguarán (freelance, ex El Español)
+- Raúl Sánchez (eldiario.es)
+- Luis Sevillano (El Independiente)
+- Laura Tejedor (Universidad Complutense de Madrid)
+- María Zuil (El Confidencial).
 * Formulario
