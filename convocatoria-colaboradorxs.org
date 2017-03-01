@@ -27,7 +27,7 @@ La convocatoria cierra el 6 de abril, un día antes del inicio del taller.
 #+ATTR_HTML: :alt Convocatoria de colaboradorxs taller de periodismo de datos la España vacía, del 6 de marzo al 6 de abril :title Convocatoria de colaboradorxs
 https://github.com/medialab-prado/5tpd/blob/master/materiales/5tpd-conv-colab-2.png
 #+BEGIN_HTML
-<img src="https://farm6.staticflickr.com/5635/31400708025_f1c4f211c7_z_d.jpg" width"=640" alt="Convocatoria de colaboradorxs taller de periodismo de datos la España vacía, del 6 de marzo al 6 de abril" />
+<img src="https://github.com/medialab-prado/5tpd/blob/master/materiales/5tpd-conv-colab-2.png" width"=640" alt="Convocatoria de colaboradorxs taller de periodismo de datos la España vacía, del 6 de marzo al 6 de abril" />
 
 #+END_HTML
 
