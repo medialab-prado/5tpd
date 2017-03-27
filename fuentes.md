@@ -70,7 +70,7 @@
 **Poblados de colonización y colonias penitenciarias en la España verde de Franco**
 - IGN (Instituto Geográfico Nacional) fototeca
 
-**El destino de los Fondos Europeos para el Desarrollo Rural en las Provincias más despobladas de **España
+**El destino de los Fondos Europeos para el Desarrollo Rural en las Provincias más despobladas de España**
 - INE: datos de población
 - Ministerio de Empleo (FEADER, FEDER, PAC, cohesión)
 
