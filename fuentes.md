@@ -1,3 +1,43 @@
+## Fuentes genéricas:
+
+[Instituto Nacional de Estadística (INE). Datos demográficos](http://ine.es/dyngs/INEbase/es/categoria.htm?c=Estadistica_P&cid=1254734710990)
+
+[Centro Nacional de Información Geográfica (CNIG). Centro de descargas](http://centrodedescargas.cnig.es/CentroDescargas/catalogo.do;jsessionid=CD432E0A4150A63D3B8262B8329B748B#selectedSerie)
+
+[Instituto Geográfico Nacional](http://www.ign.es/ign/layoutIn/sismoFormularioCatalogo.do)
+
+[EUROSTAT. Catálogo de datos](http://ec.europa.eu/eurostat/data/database)
+
+[Comisión Europea. Plataforma de datos urbanos](http://urban.jrc.ec.europa.eu/?ind=popden&ru=fua&s=0&c=1&m=0&f=1&p=0&swLat=31.27855085894653&swLng=-49.39453125&neLat=62.3903694381427&neLng=71.279296875)
+
+[Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente. Catálogo de datos.](http://www.mapama.gob.es/es/cartografia-y-sig/ide/)
+
+[Ministerio de Industria. Catálogo de datos.](https://sede.minetur.gob.es/es-ES/datosabiertos/catalogo-datos/Paginas/catalogo.aspx?tm=9)
+
+[Ministerio de hacienda. Catálogo de datos](http://www.minhafp.gob.es/es-ES/GobiernoAbierto/Datos%20Abiertos/Paginas/Catalogodedatosabiertos.aspx)
+
+[Ministerio de Sanidad, Servicios sociales e Igualdad. Catálogo de datos](http://www.msssi.gob.es/estadEstudios/estadisticas/sisInfSanSNS/home.htm)
+
+[Sede electrónica del catastro. Consulta de datos catastrales.](https://www1.sedecatastro.gob.es/OVCFrames.aspx?TIPO=consulta)
+
+[Presupuestos de todos los municipios de España - Gobierto](https://presupuestos.gobierto.es/)
+
+[Agencia Estatal de Meteorología (AEMET)](http://www.aemet.es/es/portada)
+
+[Naciones Unidas. Catálogo de datos](http://data.un.org/)
+
+[Banco Mundial. Catálogo de datos](http://datos.bancomundial.org/indicador)
+
+[Organización Mundial de la Salud. Catálogo de datos](http://www.who.int/gho/en/)
+
+[Estadísticas de turismo - Eurostat](http://ec.europa.eu/eurostat/statistics-explained/index.php/Tourism_statistics_at_regional_level)
+
+[Base de datos de playas en España - Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente](http://www.mapama.gob.es/es/cartografia-y-sig/ide/descargas/costas-medio-marino/guia-playas-descargas.aspx)
+
+[Consejo de Seguridad Nuclear](https://www.csn.es/ciemat-pimic/datos-generales)
+
+## Fuentes específicas de cada proyecto
+
 **Estudio de los flujos demográficos en el interior de España a través de microdatos**
 - INE: microdatos del padrón continuo
 
