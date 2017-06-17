@@ -14,7 +14,7 @@
 #+LATEX_HEADER: }
 
 * Entradilla
-Esta primavera abordamos una España vacía de datos. Os invitamos a participar como colaboradorxs en alguno de los proyectos que se seleccionen en esta edición del taller de periodismo de datos, primavera de 2017.
+Esta primavera abordamos una *España vacía de datos*. Os invitamos a participar como colaboradorxs en alguno de [[http://medialab-prado.es/article/v-taller-de-produccion-de-periodismo-de-datos-la-espana-vacia-convocatoria-de-proyectos][los proyectos que se seleccionen]] en esta edición del [[http://medialab-prado.es/article/v-taller-de-produccion-de-periodismo-de-datos-la-espana-vacia][taller de periodismo de datos]], primavera de 2017.
 
 * Intro
 /La España vacía/ es un taller de producción de periodismo de datos que se celebra en *tres fines de semana* de *abril*, *mayo* y *junio* de 2017. Los proyectos seleccionados contarán con la ayuda de nueve mentores locales, dos mentores técnicxs y una mentora internacional, [[http://medialab-prado.es/person/hassel-fallas][Hassel Fallas]], redactora jefa de la [[http://www.nacion.com/autores/hassel_fallas/][Unidad de datos]] del diario /La Nación/ de Costa Rica.

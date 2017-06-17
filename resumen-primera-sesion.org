@@ -1,0 +1,157 @@
+#+BLOG: blog.datalab.es
+#+CATEGORY: 
+#+TAGS: 
+#+DESCRIPTION: 
+#+AUTHOR: Adolfo Antón Bravo
+#+EMAIL: adolfo@medialab-prado.es
+#+TITLE: Segunda sesión del taller de periodismo de datos la España vacía
+#+DATE: [2016-12-16 mié 16:00]
+#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+TOC: headlines 2
+#+LATEX_HEADER: \usepackage[english]{babel}
+#+LATEX_HEADER: \addto\captionsenglish{\renewcommand{\contentsname}{{\'I}ndice}}
+#+LATEX_HEADER: \renewcommand{\contentsname}{Índice}
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: linear
+#+REVEAL_THEME: sky
+#+REVEAL_HLEVEL: 2
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Herramientas de Scraping de PDF y Web.">
+#+REVEAL_POSTAMBLE: <p> Creado por adolflow. </p>
+#+REVEAL_PLUGINS: (highlight notes)
+#+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
+#+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
+#+LATEX_HEADER: \maketitle
+#+LATEX_HEADER: \tableofcontents
+
+* Intro
+
+La segunda sesión del taller de producción de periodismo de datos [[http://medialab-prado.es/article/v-taller-de-produccion-de-periodismo-de-datos-la-espana-vacia][la
+España vacía]] (5-7 mayo) coincide con las [[http://s.coop/jpd17][Jornadas de Periodismo de
+Datos]] (3-6 mayo, /cada dato cuenta/), una oportunidad única para
+ponerse al día de esta disciplina y de los proyectos que se
+desarrollan en el taller.
+
+* Contenido
+
+#+CAPTION: La España vacía. V Taller de Producción de Periodismo de Datos [[https://creativecommons.org/licenses/by-nc/2.0/][Licencia CC]]
+#+ATTR_HTML: :alt La España vacía. V Taller de Producción de Periodismo de Datos [[https://creativecommons.org/licenses/by-nc/2.0/][Licencia CC]] :title tppd17
+http://medialab-prado.es/mmedia/20/20235/500_0.png
+
+A diferencia de las ediciones precedentes, la [[http://s.coop/tpd17][V edición del Taller de
+Producción de Periodismo de datos de MediaLab Prado]] se desarrolla en
+tres sesiones, repartidas durante los meses de abril, mayo y junio.
+
+Durante la primera de ellas, se presentaron los diez proyectos, se
+conformaron los equipos, tuvimos la oportunidad de conocer el trabajo
+de [[https://www.youtube.com/watch?v%3Dwwy4Zav2MRQ][Hazel Fallas y la Unidad de Inteligencia de Datos del diario La
+Nación de Costa Rica]], Laura Guerrero del Instituto Nacional de
+Estadística nos sumergió en la web del INE, conocimos las inquietudes
+de Carlos Gil-Bellosta sobre las rejillas poblacionales y lxs once
+mentorxs comenzaron a tomar contacto con los distintos equipos.
+* Agenda de la segunda sesión
+La segunda sesión se dedica exclusivamente a trabajo en equipo, salvo
+la puesta en común del estado de los proyecto.
+
+Además de en la falta de datos, si en otra queja coincidieron los
+equipos en la evaluación de la primera sesión fue en que su ritmo de trabajo se veía alterado por [[agenda-primera-sesion][las charlas, los talleres]]
+o las preguntas de lxs organizadorxs del taller.
+
+Recogemos la crítica y proponemos una segunda sesión donde lxs
+participantes podrán trabajar todo el tiempo en sus proyectos en la sala
+/LAB1/, mientras en el /Auditorio/ se celebran las [[http://s.coop/jpd17][Jornadas de
+Periodismo de Datos 2017, cada dato cuenta]].
+
+También vamos a incorporar espacios de comunicación informal, como un
+piscolabis el sábado 6 de mayo.
+
+Además, para la siguiente edición, recogemos la sugerencia de celebrar una
+jornada previa que concentre los talleres, donde alguno aborde,
+además, las técnicas que agilizaran la forma de organizar y dinamizar
+el trabajo en grupo.
+
+* Sólo no puedes, con amigxs sí
+Muchas de las personas que se acercan a este taller son o han sido
+estudiantes de ciencias de la información, han estudiado un máster
+específico y/o han trabajado en medios de comunicación. Para ellxs, la
+disciplina del periodismo de datos y el taller les interesan por dos
+cuestiones fundamentales: la laboral y la deontológica.
+
+En el ámbito laboral, formativo, curricular o de conocimiento, el
+periodismo de datos aporta una conexión entre disciplinas que parten o
+están relacionadas con la comunicación, como son las tecnologías de la
+información, la visualización de datos, la estadística, la Web, el
+diseño, la narración digital, la narración transmedia...
+
+Sin embargo, también participan personas que vienen del ámbito de la
+geografía, la sociología, la física, la arquitectura, la estadística,
+las ingenierías o simplemente se interesan por estas cuestiones de
+comunicación contemporánea y en la que aportan sus conocimientos y
+puntos de vista.
+
+* ¿Sociedad de la información?
+También se valora el taller desde un enfoque de la deontología
+periodística que conecta con los datos abiertos, la transparencia y la
+rendición de cuentas. Vivimos en una sociedad en la que cada vez más
+-- aunque no tanto como quisiéramos-- se puede acceder a mucha
+información, por lo que hace más compleja la síntesis propia de los
+formatos periodísticos y remite a los proyectos de investigación de
+las ciencias sociales y que transitan por los datos abiertos y/o
+masivos. Es decir, el periodismo vuelve a ser un ejercicio de
+investigación rigurosa donde se desvelen aspectos de la realidad y
+problemáticas que permanecen ocultas y cuyo conocimiento puede
+resultar relevante para la sociedad civil.
+
+Desde esta perspectiva, el periodismo de datos es visto como uno de
+los pilares en los que debería sustentarse la recuperación del oficio
+periodístico. Conocer el manejo de herramientas que permiten extraer,
+recopilar, analizar y, finalmente, plantear conclusiones basadas en
+datos abre una vía de acceso a las temáticas investigación más
+profunda. Además, permite abrir nuevas perspectivas, elaborar
+productos informativos e historias de más calidad, más rigurosas e
+incluso, más accesibles.
+
+Estos talleres suponen una oportunidad para que periodistas y personas
+de otras disciplinas se pongan en contacto para crear comunidades de
+aprendizaje y de generación del conocimiento, lo cual ayuda a superar
+los muros invisibles que se levantan entre disciplinas del saber. El
+periodismo de datos brinda la oportunidad de hacer efectiva la tan
+cacareada multidisciplinariedad, de la que mucho se habla en los
+ámbitos académicos y profesionales, pero poco se practica. Este
+aspecto es, a su vez, el que más atrae a las personas que se han
+acercado al taller desde disciplinas diferentes al periodismo.
+
+En lo que se refiere a los primeros pasos y dificultades que
+encontraron los grupos al iniciar sus investigaciones, algún equipo
+aún se debatía sobre matices importantes relacionados con la
+perspectiva desde la que se iba a abordar la consulta de las fuentes
+de datos; en otros casos, dada la amplitud del tema de investigación
+escogido, se había procedido a aterrizar el proyecto acotándolo en
+función de las fuentes de datos disponibles, la limitación temporal
+del taller y la falta de suficientes recursos humanos en el grupo.
+
+* Datos ¿abiertos?
+
+En lo que respecta a la naturaleza de las fuentes, en general, dado el
+tema marco escogido para este año, los grupos han optado por
+solicitar datos públicos, pero también han buscado fuentes de
+organismos especializados, públicos o privados, y por supuesto a
+/escrapear/ de páginas web, /PDF/ o libros para crear las bases de
+datos propias, los datos estructurados.
+
+* Vídeos de la primera sesión
+- [[https://www.youtube.com/watch?v%3DTkitos9nn1g][V taller de producción de periodismo de datos: la España vacía. Día 1. Mañana ]]
+- [[https://www.youtube.com/watch?v%3DfrU8w6PvzfU&t%3D8s][V taller de producción de periodismo de datos: la España vacía. Día 1. Tarde ]]
+- [[https://www.youtube.com/watch?v%3DdDmpeNBS5ms][V taller de producción de periodismo de datos: la España vacía. Día 2. Mañana ]]
+- [[https://www.youtube.com/watch?v%3DwfL5CC-vg2U][V taller de producción de periodismo de datos: la España vacía. Día 2. Tarde ]]
+- [[https://www.youtube.com/watch?v%3Dwwy4Zav2MRQ][Charla de Hazel Fallas]]
+
+* Agenda de la primera sesión
+<<agenda-primera-sesion>>
+#+BEGIN_EXPORT html
+<h2>Horarios de la primera sesión (del 7 al 9 de abril)</h2><h3>Viernes 7 </h3><ul><li>10:00 - 10:30: Presentación del taller por los coordinadores, Adolfo Antón y Rafael de las Cuevas. Streaming en directo</li><li>10:30 - 11:30: Presentación de proyectos</li><li>11:30-13:00: Presentación de colaboradorxs y formación de equipos.</li><li>13:00 - 14:00: Taller a cargo de Laura Guerrero Gómez, del Instituto Nacional de Estadística (INE)</li>14:00 - 15:00: Descanso para comer<li>15:00 - 16:00: Presentación de la estructura del taller, hitos y cronograma, por Rafael de las Cuevas (Populate.tools, Gobierto). Streaming en directo</li><li>16:00 - 18:30: Trabajo en equipo</li><li>18:30 - 19:30: Taller de conceptos básicos de estadística y formatos más habituales de datos, por Beatriz Martínez (Visualizados.com).</li><li>19:30 - 20:30: Trabajo en equipo</li></ul><h3>Sábado 8</h3><ul><li>10:00 - 11:00: Trabajo en equipo</li><li>11:00 - 12:00: Taller a cargo de Carlos Gil Bellosta [<a href="https://www.youtube.com/watch?v=dDmpeNBS5ms">streaming en directo</a>]</li><li>12:00 - 13:00: Taller de hojas de cálculo y tratamiento de bases de datos, por Jesús Escudero (El Confidencial, Panama Papers) [<a href="https://www.youtube.com/watch?v=dDmpeNBS5ms">streaming en directo</a>]</li><li>13:00 - 14:00: Trabajo en equipo</li><li>14:00 - 15:00: Descanso para comer</li><li>15:00 - 17:30: Trabajo en equipo</li><li>17:30 - 18:30: Taller de herramientas de limpieza, análisis, visualización y publicación, por Fernando Blat (Populate.tools, Gobierto)[<a href="https://www.youtube.com/watch?v=wfL5CC-vg2U">streaming en directo</a>]</li><li>18:30 - 19:30: Taller de prototipado de herramientas informativas de datos y cómo tratar la información demográfica, por Hassel Fallas (La Nación)[<a href="https://www.youtube.com/watch?v=wfL5CC-vg2U">streaming en directo</a>]</li><li>19:30 - 20:30: Trabajo en equipo </li></ul><h3>Domingo 9</h3><ul><li>10:00-12:00: Trabajo en equipo</li><li>12:00-14:00: Ronda de estado de los proyectos </li></ul><p>&nbsp;</p> </div> </div> 
+#+END_EXPORT
