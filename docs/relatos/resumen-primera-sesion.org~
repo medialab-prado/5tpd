@@ -1,0 +1,100 @@
+#+BLOG: blog.datalab.es
+#+CATEGORY: 
+#+TAGS: 
+#+DESCRIPTION: 
+#+AUTHOR: Adolfo Antón Bravo
+#+EMAIL: adolfo@medialab-prado.es
+#+TITLE: Segunda sesión del taller de periodismo de datos la España vacía
+#+DATE: [2016-12-16 mié 16:00]
+#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+TOC: headlines 2
+#+LATEX_HEADER: \usepackage[english]{babel}
+#+LATEX_HEADER: \addto\captionsenglish{\renewcommand{\contentsname}{{\'I}ndice}}
+#+LATEX_HEADER: \renewcommand{\contentsname}{Índice}
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: linear
+#+REVEAL_THEME: sky
+#+REVEAL_HLEVEL: 2
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Herramientas de Scraping de PDF y Web.">
+#+REVEAL_POSTAMBLE: <p> Creado por adolflow. </p>
+#+REVEAL_PLUGINS: (highlight notes)
+#+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
+#+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
+#+LATEX_HEADER: \maketitle
+#+LATEX_HEADER: \tableofcontents
+
+* Intro
+
+La segunda sesión del taller de producción de periodismo de datos [[http://medialab-prado.es/article/v-taller-de-produccion-de-periodismo-de-datos-la-espana-vacia][la
+España vacía]] (5-7 mayo) coincide con las [[http://s.coop/jpd17][Jornadas de Periodismo de
+Datos]] (3-6 mayo, /cada dato cuenta/), una oportunidad única para
+ponerse al día de esta disciplina y de los proyectos que se desarrollan en el taller.
+
+* Contenido
+
+#+CAPTION: Imagen de GEN de la edición del Editors Lab 2015 en Medialab-Prado. [[https://creativecommons.org/licenses/by-nc/2.0/][Licencia CC]]
+#+ATTR_HTML: :alt Imagen de GEN de la edición del Editors Lab 2015 en Medialab-Prado. [[https://creativecommons.org/licenses/by-nc/2.0/][Licencia CC]] :title EditorsLab_2015
+https://farm1.staticflickr.com/528/18488623448_0db1dfac00_z_d.jpg
+
+A diferencia de las ediciones precedentes, la [[http://s.coop/tpd17][V edición del Taller de
+Producción de Periodismo de datos de MediaLab Prado]] se desarrolla en
+tres sesiones, repartidas durante los meses de abril, mayo y junio.
+
+Durante la primera de ellas, se conformaron los equipos de los diez proyectos seleccionados este año, tuvimos la oportunidad de conocer el trabajo de [[https://www.youtube.com/watch?v%3Dwwy4Zav2MRQ][Hazel Fallas y la Unidad de Inteligencia de Datos del diario La Nación de Costa Rica]], Laura Guerrero del Instituto Nacional de Estadística nos sumergió en la web del INE, conocimos las inquietudes de Carlos Gil-Bellosta sobre los datos del INE
+
+Muchas de las personas que se acercan a este taller son o han sido estudiantes de ciencias de la información, han estudiado un máster específico y/o han trabajado en medios de comunicación. Para ellxs, la disciplina del periodismo de datos y el taller les interesan por dos cuestiones fundamentales: la laboral y la deontológica.
+
+En el ámbito laboral, formativo, curricular o de conocimiento, el periodismo de datos aporta una conexión entre disciplinas que parten o están relacionadas con la comunicación, como son las tecnologías de la información, la visualización de datos, la estadística, la Web, el diseño, la narración digital, la narración transmedia...
+
+Sin embargo, también participan personas que vienen del ámbito de la geografía, la sociología, la física, la arquitectura, la estadística, las ingenierías o simplemente se interesan por estas cuestiones de comunicación contemporánea y en la que aportan sus conocimientos y puntos de vista.
+
+También se valora el taller desde un enfoque de la deontología periodística que conecta con los datos abiertos, la transparencia y la rendición de cuentas. Vivimos en una sociedad en la que cada vez más -- aunque no tanto como quisiéramos-- se puede acceder a mucha información, por lo que hace más compleja la síntesis propia de los formatos periodísticos y remite a los proyectos de investigación de las ciencias sociales y que transitan por los datos abiertos y/o masivos. Es decir, el periodismo vuelve a ser un ejercicio de investigación rigurosa donde se desvelen aspectos de la realidad y problemáticas que permanecen ocultas y cuyo conocimiento puede resultar relevante para la sociedad civil.
+
+Desde esta perspectiva, el periodismo de datos es visto como uno de los pilares en los que debería sustentarse la recuperación del oficio periodístico. Conocer el manejo de herramientas que permiten extraer,
+recopilar, analizar y, finalmente, plantear conclusiones basadas en datos abre una vía de acceso a las temáticas investigación más profunda. Además, permite abrir nuevas perspectivas, elaborar productos informativos e historias de más calidad, más rigurosas e incluso, más accesibles.
+
+Estos talleres suponen una oportunidad para que periodistas y personas de otras disciplinas se pongan en contacto para crear comunidades de aprendizaje y de generación del conocimiento, lo cual ayuda a superar los muros invisibles que se levantan entre disciplinas del saber. El periodismo de datos brinda la oportunidad de hacer efectiva la tan cacareada multidisciplinariedad, de la que mucho se habla en los ámbitos académicos y profesionales, pero poco se practica. Este aspecto es, a su vez, el que más atrae a las personas que se han acercado al taller desde disciplinas diferentes al periodismo.
+
+En lo que se refiere a los primeros pasos y dificultades que encontraron los grupos al iniciar sus investigaciones, algún equipo aún se debatía sobre matices importantes relacionados con la perspectiva desde la que se iba a abordar la consulta de las fuentes de datos; en otros casos, dada la amplitud del tema de investigación escogido, se había procedido a aterrizar el proyecto acotándolo en función de las fuentes de datos disponibles, la limitación temporal del taller y la falta de suficientes recursos humanos en el grupo.
+
+En lo que respecta a la naturaleza de las fuentes, en general, dado el tema marco escogido para este año, y a la espera de recibir el apoyo del mentor/mentores asignados para poder extraer información de
+fuentes "no estructuradas", los grupos habían optado por solicitar datos o comenzar a utilizar los de fuentes de información ya
+estructuradas (fueran públicas, institucionales, de grandes
+asociaciones y/o entidades privadas).
+
+Con respecto a la opinión de los equipos sobre qué aspectos de la
+organización del taller podrían modificarse para que éste funcionara
+mejor, destacó una opinión unánime: los talleres, si bien resultan
+útiles y muy interesantes, interrumpen en ocasiones el ritmo de
+trabajo en momentos en los que el nivel de concentración es bueno para
+el progreso de la investigación. Con esta entrevista se tuvo, en
+ocasiones, la misma impresión.
+
+Desde algunos equipos se sugirió la celebración de una jornada previa
+en la que éstos talleres se concentraran, abriendo también la
+posibilidad de incluir entre ellos alguno relativo a técnicas que
+agilizaran la forma de organizar y dinamizar el trabajo en grupo.
+
+Por último, también se expresó la necesidad de que existiera un
+espacio de comunicación informal en el que charlar con los asistentes.
+
+#+CAPTION: Imagen de GEN de la edición del Editors Lab 2015 en Medialab-Prado. [[https://creativecommons.org/licenses/by-nc/2.0/][Licencia CC]]
+#+ATTR_HTML: :alt Imagen de GEN de la edición del Editors Lab 2015 en Medialab-Prado. [[https://creativecommons.org/licenses/by-nc/2.0/][Licencia CC]] :title EditorsLab_2015
+https://farm1.staticflickr.com/528/18488623448_0db1dfac00_z_d.jpg
+
+* Vídeos
+- [[https://www.youtube.com/watch?v%3DTkitos9nn1g][V taller de producción de periodismo de datos: la España vacía. Día 1. Mañana ]]
+- [[https://www.youtube.com/watch?v%3DfrU8w6PvzfU&t%3D8s][V taller de producción de periodismo de datos: la España vacía. Día 1. Tarde ]]
+- [[https://www.youtube.com/watch?v%3DdDmpeNBS5ms][V taller de producción de periodismo de datos: la España vacía. Día 2. Mañana ]]
+- [[https://www.youtube.com/watch?v%3DwfL5CC-vg2U][V taller de producción de periodismo de datos: la España vacía. Día 2. Tarde ]]
+- [[https://www.youtube.com/watch?v%3Dwwy4Zav2MRQ][Charla de Hazel Fallas]]
+
+* Bibliografía
+EL TEJIDO EN EL TEXTO, EL TEXTO TEJIDO: LAS CHANSONS DE TOILE Y POEMAS ANÁLOGOS. Alan Deyermond. Queen Mary and Westfield College, London.
+https://dialnet.unirioja.es/descarga/articulo/233485.pdf
+

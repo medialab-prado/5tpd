@@ -1,0 +1,120 @@
+#+BLOG: blog.datalab.es
+#+CATEGORY: 
+#+TAGS: 
+#+DESCRIPTION: Convocatoria de proyectos del quinto taller de producción de periodismo de datos
+#+AUTHOR: Adolfo Antón Bravo
+#+EMAIL: adolfo@medialab-prado.es
+#+TITLE: V taller de producción de periodismo de datos, La España Vacía, convocatoria de proyectos
+#+DATE: <2017-01-12 jue 16:00>
+#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+
+* Entradilla
+Hasta el 5 de marzo de 2017 está abierta la convocatoria de proyectos para el V taller de producción de periodismo de datos, /La España vacía/. Los proyectos seleccionados se desarrollarán con la colaboración de 9 mentores locales y [[http://medialab-prado.es/person/hassel-fallas][Hassel Fallas]], directora de la [[http://www.nacion.com/autores/hassel_fallas/][Unidad de Inteligencia de Datos de La Nación]] (Costa Rica)
+
+* Introducción
+Esta convocatoria va dirigida a periodistas, programadores, desarrolladores front/back, diseñadores UX, estadísticos, visualizadores de datos y, en general, cualquier persona que quiera trabajar con datos para sacar historias de ellos, ya sean estudiantes, profesionales de alguna rama o simples personas curiosas.
+
+El taller está coordinado por [[http://medialab-prado.es/person/rafael-de-las-cuevas][Rafael de las Cuevas]] y [[http://medialab-prado.es/person/adolfoanton][Adolfo Antón Bravo]]. Contamos con [[http://medialab-prado.es/person/fernando-blat][Fernando Blat]] y Beatriz Martínez como mentores técnicos e [[http://medialab-prado.es/person/ignacio-azcona-cristobal][Ignacio Azcona]] como mentor de relatoría. Además, cada proyecto contará con la mentoría de un grupo de periodistas de datos compuesto por [[http://medialab-prado.es/person/javier-barriocanal][Javier Barriocanal]] (/Vocento/ y /Colpisa Noticias/), [[http://medialab-prado.es/person/adrian-blanco][Adrián Blanco]] (/El Confidencial/), [[http://medialab-prado.es/person/jesus_escudero][Jesús Escudero]] y [[http://medialab-prado.es/person/danielegrasso][Daniele Grasso]] (/El Confidencial/, /Panama Papers/), [[http://medialab-prado.es/person/nicolas-perez][Nicolás Pérez Iguarán]] (freelance, ex /El Español/), [[http://medialab-prado.es/person/raul-sanchez-gonzalez][Raúl Sánchez]] (/eldiario.es/), [[http://medialab-prado.es/person/luis-sevillano-pires][Luis Sevillano]] (/El Independiente/), [[http://medialab-prado.es/person/laura_tejedor][Laura Tejedor]] (/Universidad Complutense de Madrid/) y [[http://medialab-prado.es/person/maria-zuil][María Zuil]] (El Confidencial). 
+
+La fecha límite para la presentación de proyectos es el domingo 12 de marzo a las 12 de la noche UTC+2. La inscripción es gratuíta.
+
+#+CAPTION: Imagen de Miguel Ángel García. Ermita de nuestra Señora de Jerusalén
+#+ATTR_HTML: :alt Imagen de Miguel Ángel García. Ermita de nuestra Señora de Jerusalén :title Nuestra Sra. de Jerusalén
+https://farm6.staticflickr.com/5635/31400708025_f1c4f211c7_z_d.jpg
+
+* Condiciones
+
+Los proyectos deben reunir estas condiciones:
+
+- Recopilación y análisis de datos para crear una historia o herramienta periodística.
+- Fuentes de datos fiables y localizadas antes de la realización del taller.
+- Tema relacionado con la narrativa del taller.
+
+Algunas ideas:
+
+ - Flujos demográficos en el interior de España.
+ - Flujos demográficos hacia España o desde España.
+ - Ordenación del territorio: agricultura, ganadería, industria, energía, etc.
+ - Movimientos de personas, mercancías o animales.
+ - Diferencias zonas urbanas/rurales
+ - Residuos
+ - Contaminación
+ 
+ Algunas fuentes de datos:
+ 
+- [[http://ine.es/dyngs/INEbase/es/categoria.htm?c=Estadistica_P&cid=1254734710990][Instituto Nacional de Estadística (INE). Datos demográficos]]
+- [[http://centrodedescargas.cnig.es/CentroDescargas/catalogo.do;jsessionid=CD432E0A4150A63D3B8262B8329B748B#selectedSerie][Centro Nacional de Información Geográfica (CNIG). Centro de descargas]]
+- [[http://www.ign.es/ign/layoutIn/sismoFormularioCatalogo.do][Instituto Geográfico Nacional]]
+- [[http://ec.europa.eu/eurostat/data/database][EUROSTAT. Catálogo de datos]]
+- [[http://urban.jrc.ec.europa.eu/][Comisión Europea. Plataforma de datos urbanos]]
+- [[http://www.mapama.gob.es/es/cartografia-y-sig/ide/][Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente. Catálogo de datos]]
+- [[https://sede.minetur.gob.es/es-ES/datosabiertos/catalogo-datos/Paginas/catalogo.aspx?tm=9][Ministerio de Industria. Catálogo de datos]]
+- [[http://www.minhafp.gob.es/es-ES/GobiernoAbierto/Datos%20Abiertos/Paginas/Catalogodedatosabiertos.aspx][Ministerio de hacienda. Catálogo de datos]]
+- [[http://www.msssi.gob.es/estadEstudios/estadisticas/sisInfSanSNS/home.htm][Ministerio de Sanidad, Servicios sociales e Igualdad. Catálogo de datos]]
+- [[https://www1.sedecatastro.gob.es/OVCFrames.aspx?TIPO=consulta][Sede electrónica del catastro. Consulta de datos catastrales]]
+- [[https://presupuestos.gobierto.es/][Presupuestos de todos los municipios de España - Gobierto]]
+- [[http://www.aemet.es/es/portada][Agencia Estatal de Meteorología (AEMET)]]
+- [[http://data.un.org/][Naciones Unidas. Catálogo de datos]]
+- [[http://datos.bancomundial.org/indicador][Banco Mundial. Catálogo de datos]]
+- [[http://www.who.int/gho/en/][Organización Mundial de la Salud. Catálogo de datos]]
+- [[http://ec.europa.eu/eurostat/statistics-explained/index.php/Tourism_statistics_at_regional_level][Estadísticas de turismo - Eurostat]]
+- [[http://www.mapama.gob.es/es/cartografia-y-sig/ide/descargas/costas-medio-marino/guia-playas-descargas.aspx][Base de datos de playas en España - Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente]]
+- [[https://www.csn.es/ciemat-pimic/datos-generales][Consejo de Seguridad Nuclear]]
+
+¿Tienes alguna duda? [[https://docs.google.com/document/d/1ir3qX3YcNxWefKANRCsaL4Pb9V10vf4PipJAkbllETg/edit?usp%3Dsharing][Sigue este modelo]] si no sabes cómo enviar una idea, una propuesta sobre la que trabajar. Si se trata de cualquier otra cosa, escribe a adolfo @ medialab-prado.es.
+
+#+BEGIN_QUOTE
+Los resultados y el código fuente deben tener licencias libres que permitan el acceso y la difusión del conocimiento producido durante el taller.
+#+END_QUOTE
+
+Si tienes cualquier duda, escribe a [[mailto:visualizar@medialab-prado.es][visualizar @ medialab-prado.es]]
+
+* Convocatoria de colaboradorxs
+¿Quieres apuntarte al taller simplemente para trabajar en uno de los proyectos? El 6 de marzo se abrirá la convocatoria de colaboradores en la web de Medialab-Prado.
+
+* Presentación de proyectos
+
+Este año tenéis que rellenar el formulario que aparece a continuación con todos vuestros datos. Sin embargo y como novedad, os proponemos dos cosas:
+
+** Publicación previa del proyecto
+
+La primera, que publiquéis vuestro proyecto en algún sitio web, como por ejemplo Github, Gitlab, bitbucket o cualquier otra web de gestión de proyectos que permita que más usuarixs puedan sumarse desde ya y de esta manera comencéis a trabajar incluso sin saber si vas a ser seleccionados.
+
+En las dos últimas ediciones hemos utilizado Github para la gestión de los proyectos y de los equipos y queremos potenciar su uso y el trabajo en red y colaborativo. Además, de esta forma quizás consigáis que otras personas aporten sugerencias que hagan que vuestra propuesta sea mejor.
+
+** Día de los datos abiertos
+Si contáis con datos, ya sean muchos y pocos, o bien los tenéis localizados pero no habéis accedido a ellos, o pensáis que se pueden sacar de tal sitio pero no sabéis cómo, os proponemos que presentéis el proyecto al día de los datos abiertos que se celebra en [[http://madrid.opendataday.org][Madrid]] y otros lugares de [[http://spain.opendataday.org][España]] y del [[http://opendataday.org][mundo]] el sábado 4 de marzo. De esta manera, damos oportunidad a enriquecer las fuentes de datos del proyecto antes de su fecha límite de presentación el 5 de marzo.
+
+* Fechas
+
+- 2 febrero, publicación de convocatoria de proyectos
+- 4 marzo, día de los datos abiertos.
+- 5 marzo, fecha límite de presentación de propuestas.
+- 6 marzo, publicación de convocatoria de colaboradorxs.
+- 7 abril, fecha límite de convocatoria de colaboradorxs.
+- 7, 8 y 9 abril, primera sesión.
+- 5, 6 y 7 mayo, segunda sesión.
+- 18, 19 y 20 junio, tercera sesión.
+
+* Equipo
+** Organizan
+- [[http://medialab-prado.es/person/rafael-de-las-cuevas][Rafael de las Cuevas]], coordinador del taller
+- [[http://medialab-prado.es/person/adolfoanton][Adolfo Antón Bravo]], coordinador del taller y del Datalab de Medialab-Prado.
+** Mentorxs técnicxs
+- [[http://medialab-prado.es/person/fernando-blat][Fernando Blat]], mentor técnico.
+- Beatriz Martínez, mentora técnica.
+** Invitada internacional
+- [[http://medialab-prado.es/person/hassel-fallas][Hassel Fallas]], mentora internacional
+** Relatoría
+- [[http://medialab-prado.es/person/ignacio-azcona-cristobal][Ignacio Azcona Cristobal]], periodista
+** Mentorías locales
+- [[http://medialab-prado.es/person/javier-barriocanal][Javier Barriocanal]] (Vocento y Colpisa Noticias)
+- [[http://medialab-prado.es/person/adrian-blanco][Adrián Blanco]] (El Confidencial)
+- [[http://medialab-prado.es/person/jesus_escudero][Jesús Escudero]] y [[http://medialab-prado.es/person/danielegrasso][Daniele Grasso]] (El Confidencial, Panama Papers)
+- [[http://medialab-prado.es/person/nicolas-perez][Nicolás Pérez Iguarán]] (freelance, ex El Español)
+- [[http://medialab-prado.es/person/raul-sanchez-gonzalez][Raúl Sánchez]] (eldiario.es)
+- [[http://medialab-prado.es/person/luis-sevillano-pires][Luis Sevillano]] (El Independiente)
+- [[http://medialab-prado.es/person/laura_tejedor][Laura Tejedor]] (Universidad Complutense de Madrid)
+- [[http://medialab-prado.es/person/maria-zuil][María Zuil]] (El Confidencial).
+* Formulario
+
